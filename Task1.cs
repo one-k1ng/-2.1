@@ -3,7 +3,7 @@ using System.IO;
 
 namespace Task1
 {
-    class Program
+    class Task1
     {
         static void ShowDirectory(DirectoryInfo dir)
         {
